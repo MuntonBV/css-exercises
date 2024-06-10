@@ -8,13 +8,12 @@ body {
   font-weight: 800;
 }
 
-.small-para {
-  font-size: 14px;
-  font-weight: 800;
-}
-
 .para {
   font-size: 22px;
+}
+
+.small-para {
+  font-size: 14px;
 }
 
 .confirm {
@@ -36,7 +35,7 @@ body {
   font-size: 14px;
 }
 
-div.text {
+.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
